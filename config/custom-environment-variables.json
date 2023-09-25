@@ -1,3 +1,3 @@
 {
-  "MONGO_URI": "MONGO_URI"
+  "MONGO_URI": "mongodb://arnesreminderappfrontend:k6LRhDDxo4wdKKdPvBOcvkFQcwzswZ6xsNzpELbwWS8TyY9J3cWRakb1DQGBzLKjDOdJ2wj4XPnCACDbNHARNg%3D%3D@arnesreminderappfrontend.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&maxIdleTimeMS=120000&appName=@arnesreminderappfrontend@"
 }
